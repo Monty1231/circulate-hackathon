@@ -2,7 +2,7 @@
 
 ## Contributors
 - **Ash Niemann '26**: Project Manager
-- **Monty Goldberg '26**: Backend
+- **Monty Goldberg '26**: Full Stack
 - **Connor Keane '26**: Frontend
 - **Matthew Manganillo '25**: Full Stack
 
